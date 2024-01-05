@@ -1,4 +1,9 @@
 # Simple Todo React App
 
-This project is a react todo app creating project.
+This is a react todo app creating project.
+
+#Technology 
+-> Javascript
+-> React
+=> CSS
 
