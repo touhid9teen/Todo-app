@@ -3,7 +3,7 @@
 This is a react todo app creating project.
 
 #Technology 
--> Javascript
--> React
-=> CSS
+( Javascript
+, React
+, CSS)
 
